@@ -2,6 +2,22 @@
 It consists of some basic level mini web projects that can be easily cloned and copied
 
 
+Checkout all projects here
+
+https://blurredloadingpage.netlify.app/       |
+https://drinkwatergame.netlify.app/           |  
+https://feedbackpagedesign.netlify.app/       |
+https://githubprofilesfind.netlify.app/       |
+https://random-create-jokes.netlify.app/      |
+https://detect-my-key.netlify.app/            |
+https://movies-app-interface.netlify.app/     |
+https://netflix-interface-design.netlify.app/ | 
+https://random-password-generator27.netlify.app/
+https://clock-ui-interface.netlify.app/       |
+https://to-do-list-task27.netlify.app/        |
+https://simple-otp-interface.netlify.app/     |
+
+
 1st project
 blurry-loading-page
 <img width="424" alt="1" src="https://user-images.githubusercontent.com/85439546/230770197-768ba935-d649-4f7b-b083-7b3b4d6dfb63.PNG">
@@ -78,6 +94,19 @@ verify-account-ui
 <img width="960" alt="Capture" src="https://user-images.githubusercontent.com/85439546/230770480-4de5f50f-f8ef-4af2-b4b8-c42298400267.PNG">
 
 
+
+https://blurredloadingpage.netlify.app/       |
+https://drinkwatergame.netlify.app/           |  
+https://feedbackpagedesign.netlify.app/       |
+https://githubprofilesfind.netlify.app/       |
+https://random-create-jokes.netlify.app/      |
+https://detect-my-key.netlify.app/            |
+https://movies-app-interface.netlify.app/     |
+https://netflix-interface-design.netlify.app/ | 
+https://random-password-generator27.netlify.app/
+https://clock-ui-interface.netlify.app/       |
+https://to-do-list-task27.netlify.app/        |
+https://simple-otp-interface.netlify.app/     |
 
 
 
